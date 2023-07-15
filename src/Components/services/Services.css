@@ -1,0 +1,72 @@
+.services-content {
+    width: 600px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.services-content > .rec {
+    margin: 100px 0 30px ;
+}
+
+.services-title {
+    color: #52503B;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; 
+}
+
+.services-text {
+    color: #52503B;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+.services-list {
+    max-height: 336px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.services-item {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 38px;
+    align-items: center;
+    color: #333;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; 
+    height: 44px;
+}
+
+.services-item:nth-child(4){
+    margin-bottom: 0; 
+}
+
+.services-item h5 {
+    color: #52503B;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+}
+
+.services-item p {
+    width: 507px;
+    color: #333;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+}

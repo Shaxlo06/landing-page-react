@@ -1,0 +1,44 @@
+.booked {
+    background-color: #FAF8F0;
+}
+
+.booked-content {
+    width: 600px;
+    margin: 100px auto 100px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.booked-title {
+    color: #52503B;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; 
+    margin-bottom: 14px;
+}
+
+.booked-text {
+    color: #52503B;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin-bottom: 18px;
+}
+
+.booked-content > .btn-white{
+    border: 4px solid #52503B;
+    margin-right: 20px;
+}
+
+.booked-content > .btn-gray{
+    background-color: #52503B;
+    border: none;
+    color: #FFF;
+}
