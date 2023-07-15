@@ -9,6 +9,7 @@ const Weekend = () => {
                 <div className='rec'></div>
                 <h3 className="weekend-title">The Guest House is the perfect weekend getaway cabin.</h3>
                 <img className='sectionBg' src={sectionBg} alt="secondbg" />
+                {/* This img not found in netlify */}
             </div>
         </div>
     );
